@@ -1,0 +1,27 @@
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\casa 3d\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\p3dro\Documents\CIÊNCIA_DA_COMPUTAÇÃO\2º-ANO\COMPUTAÇÃO_GRAFICA\CASA_PEDRO\PROJETO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
